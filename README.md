@@ -25,7 +25,7 @@ Copy the colab file into your drive.
 
 Run the colab file to gain insights.
 
-The main files in this repository are: Airbnb_booking_analysis.ipynb which contains step-by-step EDA process and data visualization.
+The main files in this repository are: AirBnb_Booking_Analysis.ipynb which contains step-by-step EDA process and data visualization.
 
 
 ## Project Highlights
