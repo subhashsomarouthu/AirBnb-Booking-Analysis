@@ -1,6 +1,8 @@
 ## AlmaBetter Verfied Project - [AlmaBetter School](https://www.almabetter.com/)
 
-# Airbnb New York City EDA Project
+# Airbnb New York City EDA Project 
+
+## [Tableau Dashboard Link](https://public.tableau.com/app/profile/subhash.pavan.chakravarthy.somarouthu/viz/AirBnb_NYC_EDA/Dashboard1)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
